@@ -15,8 +15,12 @@ Endereço esperado após publicar:
 
 https://gaialicenciamento.github.io/gaia-licenciamento-site/
 
+## Contato configurado
+
+WhatsApp: (48) 99601-4227
+E-mail: adm@gaialicenciamento.com
+
 ## Pendências
 
-- Trocar o link de contato pelo WhatsApp real.
 - Inserir a verificação da Meta quando o código for gerado.
 - Configurar domínio próprio depois, se necessário.
